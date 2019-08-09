@@ -1,0 +1,3 @@
+import isguzar
+
+isguzar.start()
